@@ -12,7 +12,7 @@ console.log("Hello, World!");
 ```
 Isso permite uma documentação melhor para programadores, deixando bem claro a que parte do código eles estão tentando explicar.
 ## Organização
-Porém, é muito importante se lembrar da organização, para que a sua documentação esteja legível e não torne o seu projeto ainda mais confuso. Essas são algumas dicas de documentação:
+Também é muito importante se lembrar da organização, para que a sua documentação esteja legível e não torne o seu projeto ainda mais confuso. Essas são algumas dicas de documentação:
 1. Separe o seu texto em tópicos sempre que for possível, evitando longos parágrafos que explicam coisas diferentes.
 2. Utilize recursos lúdicos, tais como listas e diagramas para explicar o que você está fazendo.
 3. Lembre-se de escrever de uma forma que qualquer um possa entender, explicando coisas que são óbvias para o autor do código, mas complicadas para leitores sem conhecimento prévio do projeto.
