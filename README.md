@@ -5,6 +5,7 @@ Esse repositório tem como objetivos apresentar dicas e boas práticas para inic
 ## Docs
 A pasta docs nesse repositório apresenta boas práticas para a criação de:
 - [COMMITS](https://github.com/LucasC-Soares/Boas_Praticas_de_Git_e_GitHub/blob/main/docs/commits.md)
+- [BRANCHES](https://github.com/LucasC-Soares/Boas_Praticas_de_Git_e_GitHub/blob/main/docs/branches.md)
 - [GIST](https://github.com/LucasC-Soares/Boas_Praticas_de_Git_e_GitHub/blob/main/docs/gist.md)
 - [ISSUES](https://github.com/LucasC-Soares/Boas_Praticas_de_Git_e_GitHub/blob/main/docs/issues.md)
 - [PULL REQUEST](https://github.com/LucasC-Soares/Boas_Praticas_de_Git_e_GitHub/blob/main/docs/pull_requests.md)
