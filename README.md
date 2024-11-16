@@ -11,7 +11,7 @@ A pasta docs nesse repositório apresenta boas práticas para a criação de:
 - [DOCUMENTAÇÃO](https://github.com/LucasC-Soares/Boas_Praticas_de_Git_e_GitHub/blob/main/docs/documentacao.md)
 
 ## Comandos básicos
-Já nesse [gist](link) são apresentados comandos básicos necessários para quem quer aprender a utilizar o Git e Github.
+Já nesse [gist](https://gist.github.com/LucasC-Soares/3df16132beb390485a271ad37ef8ccee) são apresentados comandos básicos necessários para quem quer aprender a utilizar o Git e Github.
 
 ## Contribuição
 Para aqueles interessados em contribuir com o projeto, basta acessar o [link](https://github.com/LucasC-Soares/Boas_Praticas_de_Git_e_GitHub) do repositório e criar um fork dele. Após isso, basta seguir a seguinte ordem:
