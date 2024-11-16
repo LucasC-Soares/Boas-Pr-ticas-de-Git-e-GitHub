@@ -4,11 +4,11 @@ Esse repositório tem como objetivos apresentar dicas e boas práticas para inic
 
 ## Docs
 A pasta docs nesse repositório apresenta boas práticas para a criação de:
--[COMMITS](https://github.com/LucasC-Soares/Boas_Praticas_de_Git_e_GitHub/blob/main/docs/commits.md)
--[GIST](https://github.com/LucasC-Soares/Boas_Praticas_de_Git_e_GitHub/blob/main/docs/gist.md)
--[ISSUES](https://github.com/LucasC-Soares/Boas_Praticas_de_Git_e_GitHub/blob/main/docs/issues.md)
--[PULL REQUEST](https://github.com/LucasC-Soares/Boas_Praticas_de_Git_e_GitHub/blob/main/docs/pull_requests.md)
--[DOCUMENTAÇÃO](https://github.com/LucasC-Soares/Boas_Praticas_de_Git_e_GitHub/blob/main/docs/documentacao.md)
+- [COMMITS](https://github.com/LucasC-Soares/Boas_Praticas_de_Git_e_GitHub/blob/main/docs/commits.md)
+- [GIST](https://github.com/LucasC-Soares/Boas_Praticas_de_Git_e_GitHub/blob/main/docs/gist.md)
+- [ISSUES](https://github.com/LucasC-Soares/Boas_Praticas_de_Git_e_GitHub/blob/main/docs/issues.md)
+- [PULL REQUEST](https://github.com/LucasC-Soares/Boas_Praticas_de_Git_e_GitHub/blob/main/docs/pull_requests.md)
+- [DOCUMENTAÇÃO](https://github.com/LucasC-Soares/Boas_Praticas_de_Git_e_GitHub/blob/main/docs/documentacao.md)
 
 ## Comandos básicos
 Já nesse [gist](link) são apresentados comandos básicos necessários para quem quer aprender a utilizar o Git e Github.
